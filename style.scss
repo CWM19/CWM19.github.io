@@ -18,9 +18,14 @@ html {
 }
 
 body {
-    background: #3f3250 url("https://media.alienwarearena.com/media/firewatch_150305_01.png") no-repeat center;
+    background-color: #3f3250;
+	background-image: url("https://media.alienwarearena.com/media/firewatch_150305_01.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
   font: 18px/1.4 $helvetica;
-  color: C0B3A0;
+  color: #C0B3A0;
+  font-weight: bold;
 }
 
 .container {
@@ -32,7 +37,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: C0B3A0;
+  color: #C0B3A0;
   font-weight: bold;
 
   line-height: 1.7;
