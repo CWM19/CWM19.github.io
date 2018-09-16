@@ -17,15 +17,6 @@ html {
   font-size: 100%;
 }
 
-div {
-    border: 1px solid black;
-    background-color: #E14658;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-}
-
 body {
     background-color: #3f3250;
 	background-image: url("https://media.alienwarearena.com/media/firewatch_150305_01.png");
@@ -42,6 +33,15 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+}
+
+div {
+    border: 1px solid black;
+    background-color: #E14658;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
 
 h1, h2, h3, h4, h5, h6 {
