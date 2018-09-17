@@ -76,3 +76,10 @@ published: true
 </table>
 
 
+<p> A link to w3schools CSS Tutorial</p>
+<ul>
+  <li><a href="/css/default.asp" target="https://www.w3schools.com/css/default.asp">CSS</a></li>
+</ul>
+
+
+
