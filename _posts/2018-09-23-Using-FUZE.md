@@ -75,6 +75,8 @@ published: true
   </tr>
 </table>
 
+<a href="https://www.fuze.co.uk/">FUZE</a>
+
 
        ![image alt text]({{ site.url }}/public/2p5nE0d5ZNV9vILTCBwbw_img_0.png)![image alt text]({{ site.url }}/public/2p5nE0d5ZNV9vILTCBwbw_img_1.png)
 
