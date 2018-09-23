@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td> I Remade My Blog</td>
-    <td>   Date</td>
-    <td> 8/09/18</td>
+    <td>I Remade My Blog</td>
+    <td>Date</td>
+    <td>8/09/18</td>
   </tr>
 </table>
 
@@ -74,12 +74,5 @@ published: true
     <td></td>
   </tr>
 </table>
-
-
-<p> A link to w3schools CSS Tutorial</p>
-<ul>
-  <li><a href="/css/default.asp" target="https://www.w3schools.com/css/default.asp">CSS</a></li>
-</ul>
-
 
 
