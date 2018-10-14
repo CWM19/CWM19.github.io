@@ -9,8 +9,11 @@ published: true
 <table>
   <tr>
     <td>Title</td>
+    <td> </td>
     <td>Continuing FUZE </td>
+    <td> </td>
     <td>Date</td>
+    <td> </td>
     <td>08/10/18</td>
   </tr>
 </table>
@@ -19,14 +22,17 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
+    <td> </td>
     <td>We began as usual by getting out the FUZE box and the other components to connect to the monitor then we carried on with the task from last week or started a new task from the booklet.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
+    <td> </td>
     <td>The target for this lesson is to complete some more of the booklet or to do more of the coding. </td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
+    <td> </td>
     <td>We reached the target for this lesson as we were able to complete at least 2 different coding sections.</td>
   </tr>
 </table>
