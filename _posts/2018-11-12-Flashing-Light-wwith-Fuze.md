@@ -1,5 +1,5 @@
 ---
-title: Flashing Light wwith Fuze
+title: Flashing Light with Fuze
 layout: post
 author: christopher.wong
 permalink: /flashing-light-wwith-fuze/
