@@ -1,5 +1,5 @@
 ---
-title: Last FUZE of the the Term
+title: Last FUZE of the the Half Term
 layout: post
 author: christopher.wong
 permalink: /last-fuze-of-the-the-term/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Last FUZE of the Term</td>
+    <td>Last FUZE of the Half Term</td>
     <td>Date</td>
     <td>15/10/18</td>
   </tr>
