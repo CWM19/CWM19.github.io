@@ -38,6 +38,26 @@ body {
     background-color: #E14658;	
 }
 
+table {
+font-family:sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+ th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+	 
+}
+
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
