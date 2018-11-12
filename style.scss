@@ -49,16 +49,16 @@ td, th {
     padding: 8px;
 }
 
- tr:nth-child(even){background-color: #f2f2f2;}
+ table tr:nth-child(even){background-color: #f2f2f2;}
 
- tr:hover {background-color: #ddd;}
+ table tr:hover {background-color: #ddd;}
 
  th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: #4CAF50;
-    color: white;
+    background-color: #E14658;
+    color: #C0B3A0;
 	 
 }
 
