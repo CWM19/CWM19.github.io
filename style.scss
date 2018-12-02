@@ -62,6 +62,21 @@ td, th {
 	 
 }
 
+a:link, a:visited {
+    background-color: #ff751a;
+    color: blue;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;	
+}
+
+
+a:hover, a:active {
+    background-color: orange;
+}
+
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
