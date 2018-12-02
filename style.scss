@@ -77,6 +77,10 @@ a:hover, a:active {
     background-color: #8972a7;
 }
 
+a.five:link {color:#ff0000;text-decoration:none;}
+a.five:visited {color:#0000ff;text-decoration:none;}
+a.five:hover {text-decoration:underline;}
+
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
