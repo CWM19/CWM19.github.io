@@ -33,7 +33,7 @@ body {
   max-width: 740px;
   width: 100%;
     padding: 50px 30px 50px 80px;
-    border: 3px solid #22252C;
+    border: 4px solid #22252C;
     border-radius: 60px;
     background-color: #E14658;	
 }
@@ -100,6 +100,7 @@ div.gallery img {
 div.desc {
     padding: 15px;
     text-align: center;
+    box-shadow: 10px 10px 5px grey;	
 
 }
 img {
@@ -111,6 +112,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: #3F3250;
   font-weight: bold;
+  text-decoration: underline; 	
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -282,7 +284,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 20px;
 
   @include mobile {
     margin: 3px 0;
@@ -351,15 +353,17 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 25px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 10px 0;
   text-align: center;
+  	
+  	
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
