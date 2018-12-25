@@ -82,6 +82,6 @@ published: true
 </a>  
       
 <a href="https://www.fuze.co.uk/">      
-  <img src="/public/2p5nE0d5ZNV9vILTCBwbw_img_1.png" alt="Fuze Image.2" style="width:500px;height:125px;border:0;">
+  <img src="/public/2p5nE0d5ZNV9vILTCBwbw_img_1.png" alt="Fuze Image.2" style="width:500px;height:250px;border:0;">
 </a>    
 
