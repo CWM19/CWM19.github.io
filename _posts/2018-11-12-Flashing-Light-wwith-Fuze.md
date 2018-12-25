@@ -76,7 +76,7 @@ published: true
 </table>
 
 
-![image alt text]({{ site.url }}/public/af29GFO6zM7WIjRFA_img_0.jpg)
-
-https://www.fuze.co.uk/
+  <img src="/public/af29GFO6zM7WIjRFA_img_0.jpg" alt="Fuze Board" style="width:auto;height:auto;border:0;">
+  
+  <a href="https://www.fuze.co.uk/">Fuze Basic</a>
 
