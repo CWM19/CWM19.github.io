@@ -81,23 +81,17 @@ published: true
   </tr>
 </table>
 
+  <img src="/public/yLBtgOKs6b0Z1SXuWNDQGg_img_0.jpg" alt="Coding for the Images Below" style="width:auto;height:auto;border:0;">
 
-![image alt text]({{ site.url }}/public/yLBtgOKs6b0Z1SXuWNDQGg_img_0.jpg)
+<p>Coding for the Images Below.</p>
+ 
+  <img src="/public/yLBtgOKs6b0Z1SXuWNDQGg_img_1.jpg" alt="I" style="width:auto;height:auto;border:0;">
+ 
+  <img src="/public/yLBtgOKs6b0Z1SXuWNDQGg_img_2.jpg" alt="Love" style="width:auto;height:auto;border:0;">
 
-<table>
-  <tr>
-    <td>Coding for the Images Below</td>
-  </tr>
-</table>
+  <img src="/public/yLBtgOKs6b0Z1SXuWNDQGg_img_3.jpg" alt="Aliens" style="width:auto;height:auto;border:0;">
 
-
-![image alt text]({{ site.url }}/public/yLBtgOKs6b0Z1SXuWNDQGg_img_1.jpg)![image alt text]({{ site.url }}/public/yLBtgOKs6b0Z1SXuWNDQGg_img_2.jpg)![image alt text]({{ site.url }}/public/yLBtgOKs6b0Z1SXuWNDQGg_img_3.jpg)
-
-<table>
-  <tr>
-    <td>This is a sequence of different images saying I Love Aliens</td>
-  </tr>
-</table>
+<p>This is a sequence of different images saying I Love Aliens.</p>
 
 
  
