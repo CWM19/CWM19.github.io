@@ -76,5 +76,5 @@ published: true
 </table>
 
 
-[FUZE](https://www.fuze.co.uk)
+<a href="https://www.fuze.co.uk">Fuze Basic</a>
 
