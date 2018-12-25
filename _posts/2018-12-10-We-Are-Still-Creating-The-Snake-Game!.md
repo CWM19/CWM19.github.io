@@ -39,11 +39,11 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>We did persevere as we thought we had done something wrong but it was nothing as we could solve it after examining the. code for minor mistakes (typos).</td>
+    <td>We did persevere as we thought we had done something wrong but it was nothing as we could solve it after examining the code for minor mistakes (typos).</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>We were constantly asking ourselves What is wrong with the code and what can we d9 to fix it?</td>
+    <td>We were constantly asking ourselves What is wrong with the code and what can we do to fix it?</td>
   </tr>
   <tr>
     <td>Independence</td>
