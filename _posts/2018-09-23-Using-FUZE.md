@@ -75,6 +75,13 @@ published: true
   </tr>
 </table>
 
+<p>Click images for links to the Fuze Basic site. </p>
 
-       ![image alt text]({{ site.url }}/public/2p5nE0d5ZNV9vILTCBwbw_img_0.png)![image alt text]({{ site.url }}/public/2p5nE0d5ZNV9vILTCBwbw_img_1.png)
+<a href="https://www.fuze.co.uk/">
+  <img src="/public/2p5nE0d5ZNV9vILTCBwbw_img_0.png" alt="Fuze Image.1" style="width:500px;height:250px;border:0;">
+</a>  
+      
+<a href="https://www.fuze.co.uk/">      
+  <img src="/public/2p5nE0d5ZNV9vILTCBwbw_img_1.png" alt="Fuze Image.2" style="width:500px;height:125px;border:0;">
+</a>    
 
