@@ -82,5 +82,7 @@ published: true
   <img src="/public/qsmB13otSpMqAZFZnIDfIA_img_2.jpg" alt="Calculator Code" style="width:auto;height:auto;border:0;"> 
 
   <img src="/public/qsmB13otSpMqAZFZnIDfIA_img_3.jpg" alt="Fuze Book" style="width:auto;height:auto;border:0;"> 
+  
+  <a href="https://www.fuze.co.uk">Fuze Basic</a>
  
 
