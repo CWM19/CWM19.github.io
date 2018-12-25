@@ -75,6 +75,10 @@ published: true
   </tr>
 </table>
 
+<img src="/public/jnmVBjeY75gu89jS9pEAOg_img_0.png" alt="Fuze Box" style="width:auto;height:auto;border:0;">
 
-![image alt text]({{ site.url }}/public/jnmVBjeY75gu89jS9pEAOg_img_0.png) ![image alt text]({{ site.url }}/public/jnmVBjeY75gu89jS9pEAOg_img_1.png)![image alt text]({{ site.url }}/public/jnmVBjeY75gu89jS9pEAOg_img_2.jpg)
+<img src="/public/jnmVBjeY75gu89jS9pEAOg_img_1.png" alt="CODE" style="width:auto;height:auto;border:0;">
+
+<img src="/public/jnmVBjeY75gu89jS9pEAOg_img_2.jpg" alt="More CODE" style="width:auto;height:auto;border:0;">
+
 
