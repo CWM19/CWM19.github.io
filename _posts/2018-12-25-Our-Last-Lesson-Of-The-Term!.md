@@ -82,3 +82,5 @@ published: true
 <img src="https://media1.tenor.com/images/2087784170b31b0b8baa9e77de2a6ef4/tenor.gif?itemid=4556241" alt="Merry Chrsitmas" style="width:auto;height:auto;">
 
 <img src="https://i.gifer.com/587n.gif" alt="Merry Christmas" style="width:auto;height:auto;">
+
+<div class="snow"> </div>
