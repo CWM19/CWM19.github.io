@@ -76,7 +76,7 @@ published: true
 </table>
 
 
-![image alt text]({{ site.url }}/public/M1kBDGekEgWFyiAZjX2pg_img_0.jpg)
+  <img src="/public/M1kBDGekEgWFyiAZjX2pg_img_0.jpg" alt="Code for the Rocket Sequence" style="width:auto;height:auto;border:0;">
 
-Code we used to create a Rocket Sequence.
+<p>Code we used to create a Rocket Sequence.</p>
 
