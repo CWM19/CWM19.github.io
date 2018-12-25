@@ -76,5 +76,14 @@ published: true
 </table>
 
 
-![image alt text]({{ site.url }}/public/4PtphhL0CJwwLn7C0bIKVg_img_0.jpg)![image alt text]({{ site.url }}/public/4PtphhL0CJwwLn7C0bIKVg_img_1.jpg)![image alt text]({{ site.url }}/public/4PtphhL0CJwwLn7C0bIKVg_img_2.jpg)![image alt text]({{ site.url }}/public/4PtphhL0CJwwLn7C0bIKVg_img_3.jpg)
+  <img src="/public/4PtphhL0CJwwLn7C0bIKVg_img_0.jpg" alt="Robot Arm" style="width:auto;height:auto;border:0;">
+
+  <img src="/public/4PtphhL0CJwwLn7C0bIKVg_img_1.jpg" alt="Code" style="width:auto;height:auto;border:0;">
+
+  <img src="/public/4PtphhL0CJwwLn7C0bIKVg_img_2.jpg" alt="Controls" style="width:auto;height:auto;border:0;">
+
+  <img src="/public/4PtphhL0CJwwLn7C0bIKVg_img_3.jpg" alt="Robot Arm Moving" style="width:auto;height:auto;border:0;">
+  
+<p>Once again I am not able to show you the video of the Arm moving as I have the wrong file type-MOV not mp4.</p>  
+
 
