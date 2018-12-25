@@ -75,6 +75,12 @@ published: true
   </tr>
 </table>
 
+  <img src="/public/qsmB13otSpMqAZFZnIDfIA_img_0.jpg" alt="Code" style="width:auto;height:auto;border:0;">
 
- ![image alt text]({{ site.url }}/public/qsmB13otSpMqAZFZnIDfIA_img_0.jpg)![image alt text]({{ site.url }}/public/qsmB13otSpMqAZFZnIDfIA_img_1.jpg)![image alt text]({{ site.url }}/public/qsmB13otSpMqAZFZnIDfIA_img_2.jpg)![image alt text]({{ site.url }}/public/qsmB13otSpMqAZFZnIDfIA_img_3.jpg)
+  <img src="/public/qsmB13otSpMqAZFZnIDfIA_img_1.jpg" alt="Calculator" style="width:auto;height:auto;border:0;"> 
+
+  <img src="/public/qsmB13otSpMqAZFZnIDfIA_img_2.jpg" alt="Calculator Code" style="width:auto;height:auto;border:0;"> 
+
+  <img src="/public/qsmB13otSpMqAZFZnIDfIA_img_3.jpg" alt="Fuze Book" style="width:auto;height:auto;border:0;"> 
+ 
 
