@@ -76,5 +76,9 @@ published: true
 </table>
 
 
-![image alt text]({{ site.url }}/public/UCjxBLhcj46EzvyfhFHg_img_0.jpg)![image alt text]({{ site.url }}/public/UCjxBLhcj46EzvyfhFHg_img_1.jpg)
+  <img src="/public/UCjxBLhcj46EzvyfhFHg_img_0.jpg" alt="Red Lights" style="width:auto;height:auto;border:0;">
+
+  <img src="/public/UCjxBLhcj46EzvyfhFHg_img_1.jpg" alt="Fashing Lights" style="width:auto;height:auto;border:0;">
+  
+<p>Unfortunately I could not upload the Video of the Flashing Lights as it was in the MOV Form whilst it is needed to be mp4.</p>  
 
