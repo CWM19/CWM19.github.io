@@ -76,3 +76,9 @@ published: true
 </table>
 
 <a href="https://www.fuze.co.uk">Fuze Basic</a>
+
+<img src="https://media.giphy.com/media/3o6fJdYXEvMa5ZmlI4/giphy.gif" alt="Merry Christmas" style="width:auto;height:auto;">
+
+<img src="https://media1.tenor.com/images/2087784170b31b0b8baa9e77de2a6ef4/tenor.gif?itemid=4556241" alt="Merry Chrsitmas" style="width:auto;height:auto;">
+
+<img src="https://i.gifer.com/587n.gif" alt="Merry Christmas" style="width:auto;height:auto;">
