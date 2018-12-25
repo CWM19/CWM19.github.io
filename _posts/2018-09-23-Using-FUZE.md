@@ -85,3 +85,5 @@ published: true
   <img src="/public/2p5nE0d5ZNV9vILTCBwbw_img_1.png" alt="Fuze Image.2" style="width:auto;height:auto;border:0;">
 </a>    
 
+<a href="https://www.fuze.co.uk">Fuze Basic</a>
+
